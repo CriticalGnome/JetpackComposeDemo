@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JetpackComposeDemo</string>
+    <string name="title_activity_cook_book">CookBookActivity</string>
+</resources>
